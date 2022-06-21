@@ -1,4 +1,5 @@
 # Amazon_Vine_Analysis
+
 ## Overview
 The following analysis investigates the potential bias of reviewers who are paid to review an item that they have purchased. To investigate this, a video game review database was pulled from Amazon and analyzed.
 
@@ -8,11 +9,14 @@ The following analysis investigates the potential bias of reviewers who are paid
 - Vine reviewers on average rated 12.152% of their games with 5 stars
 - Non-vine reviewers on average rated 11.561% of their games with 5 stars
 - The source code, dataframe outputs, and a summary table are show below.
-
 - To support the follow up analysis, included a picture of the 1 star review analysis as well.
 
+
+### Code and DataFrames
 ![Code and dfs](code_and_df.png)
+### Five Star Review Summary
 ![Vine Summary](Vine_Summary.png)
+### One Star Review Summary
 ![1 star reviews](one_star_reviews.png)
 
 ## Summary
